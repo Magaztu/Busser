@@ -17,4 +17,8 @@ Why's life so short?
 
 We went on walks, and you enjoyed it
 
-We went to play, and I cherished it
+We went to play, and I treasured it
+
+#### I'm sorry I wasn't enough for you
+#### I'm sorry I didn't do more for you
+
