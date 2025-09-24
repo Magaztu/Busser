@@ -43,3 +43,7 @@ I can't waste a second no more.
 Memories of you flow through my mind
 
 You were always so nice, never ever bice
+
+My time with you was exceptional
+
+Nothing and no one will ever replicate that
