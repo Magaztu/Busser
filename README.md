@@ -29,3 +29,9 @@ I'd give everything I have, just for 30 more minutes with you.
 To play with you, to caress you, to enjoy deeds with you.
 
 ## I promise you, I'll be better from now on
+
+No slacking off, no careless actions
+
+Because I loved you so much, I can't bring myself to be like this anymore
+
+I can't waste a second no more.
