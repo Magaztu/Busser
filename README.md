@@ -61,3 +61,7 @@ I remember blowing you face, petting your head, stroking your chest and scratchi
 Maybe even tickling your ears.
 
 It's so vivid in my mind, but why can't I go back?
+
+I shouldn't be so pessimistic, brand new days are ahead
+
+But without you around, I don't know if I can handle them anymore
