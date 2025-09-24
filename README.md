@@ -10,3 +10,7 @@ Why now?, why now?, why? why?? why???
 Please don't. Why were you not playful yesterday?
 
 Why did you give me that faint stare today?
+
+I wish we had more time to spend together, bud.
+
+Why's life so short?
