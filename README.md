@@ -51,3 +51,7 @@ Nothing and no one will ever replicate that
 I know you can't talk, I know you won't
 
 But I hope our time together was as precious to you as it was to me
+
+Time did us apart, and so did D.
+
+But I have faith, I believe that it won't last forever.
