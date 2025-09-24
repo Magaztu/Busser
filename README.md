@@ -69,3 +69,7 @@ But without you around, I don't know if I can handle them anymore
 You were so unique and special
 
 My head can't even put to words how smooth your fur was, or how bright your eyes were.
+
+You were undeniably an interesting critter.
+
+You were most undeniably my best friend.
