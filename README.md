@@ -35,3 +35,7 @@ No slacking off, no careless actions
 Because I loved you so much, I can't bring myself to be like this anymore
 
 I can't waste a second no more.
+
+### I hope to see you again
+
+### I really do
