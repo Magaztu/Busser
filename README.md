@@ -39,3 +39,7 @@ I can't waste a second no more.
 ### I hope to see you again
 
 ### I really do
+
+Memories of you flow through my mind
+
+You were always so nice, never ever bice
