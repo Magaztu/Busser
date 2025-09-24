@@ -85,3 +85,7 @@ I'll harbor them on my heart.
 They are physical as well.
 
 So you're not gone yet.
+
+Time's running short.
+
+So are my words.
