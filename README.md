@@ -65,3 +65,7 @@ It's so vivid in my mind, but why can't I go back?
 I shouldn't be so pessimistic, brand new days are ahead
 
 But without you around, I don't know if I can handle them anymore
+
+You were so unique and special
+
+My head can't even put to words how smooth your fur was, or how bright your eyes were.
