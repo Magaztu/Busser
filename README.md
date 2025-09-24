@@ -14,3 +14,7 @@ Why did you give me that faint stare today?
 I wish we had more time to spend together, bud.
 
 Why's life so short?
+
+We went on walks, and you enjoyed it
+
+We went to play, and I cherished it
