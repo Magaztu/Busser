@@ -47,3 +47,7 @@ You were always so nice, never ever bice
 My time with you was exceptional
 
 Nothing and no one will ever replicate that
+
+I know you can't talk, I know you won't
+
+But I hope our time together was as precious to you as it was to me
