@@ -89,3 +89,7 @@ So you're not gone yet.
 Time's running short.
 
 So are my words.
+
+As we approach the end.
+
+Please, remember my friend.
