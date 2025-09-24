@@ -73,3 +73,7 @@ My head can't even put to words how smooth your fur was, or how bright your eyes
 You were undeniably an interesting critter.
 
 You were most undeniably my best friend.
+
+### Please don't watch me cry
+
+### Please comfort me with your claws
