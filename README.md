@@ -77,3 +77,7 @@ You were most undeniably my best friend.
 ### Please don't watch me cry
 
 ### Please comfort me with your claws
+
+The marks you left behind.
+
+I'll harbor them on my heart.
