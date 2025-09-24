@@ -23,3 +23,9 @@ We went to play, and I treasured it.
 #### I'm sorry I didn't do more for you
 
 But you're what I cherished the most.
+
+I'd give everything I have, just for 30 more minutes with you.
+
+To play with you, to caress you, to enjoy deeds with you.
+
+## I promise you, I'll be better from now on
