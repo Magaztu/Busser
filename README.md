@@ -6,3 +6,7 @@ I loved you ever since the beginning. The day you arrived you gave me the bigges
 Because that's how I feel now, surrounded by gloom.
 
 Why now?, why now?, why? why?? why???
+
+Please don't. Why were you not playful yesterday?
+
+Why did you give me that faint stare today?
