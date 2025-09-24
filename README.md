@@ -37,7 +37,6 @@ Because I loved you so much, I can't bring myself to be like this anymore
 I can't waste a second no more.
 
 ### I hope to see you again
-
 ### I really do
 
 Memories of you flow through my mind
@@ -93,3 +92,9 @@ So are my words.
 As we approach the end.
 
 Please, remember my friend.
+
+I always loved you.
+
+And always will.
+
+# Until the very end.
