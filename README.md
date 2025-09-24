@@ -81,3 +81,7 @@ You were most undeniably my best friend.
 The marks you left behind.
 
 I'll harbor them on my heart.
+
+They are physical as well.
+
+So you're not gone yet.
