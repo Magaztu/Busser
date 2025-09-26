@@ -1,0 +1,24 @@
+{
+  "name": "b_sser",
+  "version": "1.0.0",
+  "description": "Where do I begin?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magaztu/Busser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Magaztu/Busser/issues"
+  },
+  "homepage": "https://github.com/Magaztu/Busser#readme",
+  "devDependencies": {
+    "electron": "^38.1.2"
+  }
+}
