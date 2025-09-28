@@ -1,7 +1,7 @@
-const {app, Browserwindow} = require('electron')
+const {app, BrowserWindow} = require('electron')
 
 const createWindow = () => {
-    const win = new Browserwindow({
+    const win = new BrowserWindow({
         width: 800,
         height: 600
     })
