@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Magaztu/Busser#readme",
   "devDependencies": {
     "electron": "^38.1.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
   }
 }
