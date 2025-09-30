@@ -23,6 +23,7 @@
     "electron": "^38.1.2"
   },
   "dependencies": {
+    "7.css": "^0.21.1",
     "bootstrap": "^5.3.8"
   }
 }

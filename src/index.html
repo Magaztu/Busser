@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/7.css">
     <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css">
     <title>Busser 🐕‍🦺</title>
@@ -11,20 +12,39 @@
     <div class="center">
         <h3>Luv u</h3>
         
-        <div id="carouselSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="d-block w-100" src="../resources/3.png" alt="First slide">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="../resources/33.png" alt="Second slide">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="../resources/3.png" alt="Third slide">
+        <br>
+        <div class="window active" style="max-width: 300px">
+            <div class="title-bar">
+                <div class="title-bar-text"><em>Echoes from my past</em></div>
+                <div class="title-bar-controls">
+                <button aria-label="Minimize"></button>
+                <button aria-label="Maximize"></button>
+                <button aria-label="Close"></button>
                 </div>
             </div>
+            <div class="window-body has-space">
+                <div id="carouselSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="../resources/3.png" alt="First slide">
+                        <div role="tooltip" class="is-bottom is-left">You gave me so much, and I gave you so little...</div>
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="../resources/33.png" alt="Second slide">
+                        <div role="tooltip">I don't wish I could change the past, not at all.</div>
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="../resources/3.png" alt="Third slide">
+                        <div role="tooltip" class="is-bottom is-left">But I do wish I had more future to spend with you, I miss you so much chiquitin...</div>
+                    </div>
+                </div>
+            </div>
+            </div>
         </div>
+        
     </div>
+
+
 </body>
 <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </html>
