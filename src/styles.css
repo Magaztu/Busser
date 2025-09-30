@@ -12,3 +12,7 @@
 body {
     background-image: url("../resources/win7.jpg");
 }
+
+.clickme{
+    text-decoration: none;
+}
