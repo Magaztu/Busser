@@ -11,8 +11,10 @@
 
 body {
     background-image: url("../resources/win7.jpg");
+    /* app-region: drag; */
 }
 
 .clickme{
     text-decoration: none;
+    /* app-region: no-drag; */
 }
